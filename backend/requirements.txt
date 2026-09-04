@@ -1,8 +1,10 @@
 fastapi
 uvicorn[standard]
+gunicorn
 pydantic>=2.0.0
 sqlalchemy>=2.0.0
 psycopg[binary]
+psycopg2-binary
 python-dotenv
 pytest
 httpx
