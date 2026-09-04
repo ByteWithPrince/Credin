@@ -1,0 +1,1 @@
+"""CreditIn backend application package."""
