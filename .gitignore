@@ -2,3 +2,6 @@ Credin_Pitch_Deck.pdf
 research
 creditin.db
 .pytest_cache
+.env
+backend/.env
+apps/web/.env
